@@ -1,0 +1,5 @@
+/.pytest_cache
+/assets
+/readme.md
+/report.html
+/__pycache__
